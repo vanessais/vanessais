@@ -3,8 +3,8 @@ title: vanessa.is
 header-img: img/WestPalm.jpg
 email: va.calas@gmail.com
 description: "Vanessa Calas' blog about tech, startups, millennials, and the global market."
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: "/vanessais"
+url: "http://vanessa.is"
 twitter_username: vanessais_
 facebook_username:  vcalas
 
